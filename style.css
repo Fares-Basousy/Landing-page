@@ -1,0 +1,75 @@
+.page{
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    background-color: #1f2937;
+    display: flex;
+    flex-direction: column;
+}
+.upper-part{
+    display: flex;
+    justify-content: space-between;
+}
+.upper-left{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.upper-right{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 32px;
+    gap: 18px;
+}
+.talk{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+.more-talk{
+    font-size: 18px;
+    color: #F9FAF8;
+}
+a{
+    text-decoration: none;
+    color: #E5E7EB
+
+}
+.header-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page-description{
+    display: flex;
+    justify-content: space-between;
+    margin: 42px;
+    padding: 24px;
+    flex-direction: column;
+    flex-basis: 50%;
+
+}
+
+
+.right{
+    display: flex;
+    margin: 42px;
+    padding: 24px;
+    align-items: center;
+    justify-content: center;
+    object-fit: fill;
+    flex-basis: 50%;
+
+}
+.signup{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-size: 18px;
+    width: fit-content;
+    border-radius: 8px;
+    display: flex;
+    flex: auto;
+
+
+}
+
