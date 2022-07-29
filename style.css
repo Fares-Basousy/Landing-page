@@ -137,3 +137,23 @@ img.image{
     width: 100%;
     height: 60px;
 }
+.add
+{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    display: flex;
+    width: 80%;
+    margin: 42px;
+    padding: 24px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.button{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-size: larger;
+    font-weight: bold;
+    border: 2px solid #E5E7EB;
+    border-radius: 12px;
+    padding: 9px;
+}  
