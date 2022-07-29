@@ -1,4 +1,5 @@
 # Landing-page
+this a landing page project i did inspired from The odin project
 skyscrappers image from https://www.dezeen.com/2022/04/13/super-skinny-skyscrapers-new-york-city/
 
 desert information and image from:
